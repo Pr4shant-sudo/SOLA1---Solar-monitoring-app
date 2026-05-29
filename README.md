@@ -5,7 +5,7 @@ Smart Solar assistant prototype - Real time Dashboards,Predictive maintanance,,v
 AI-Powered Solar Monitoring Prototype
 
 ## Prototype Demo
-[Open Prototype](index.html)
+[Open Prototype](index.js)
 
 ## Features
 - Real-time monitoring
