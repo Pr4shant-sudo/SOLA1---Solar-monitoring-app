@@ -3,7 +3,7 @@ Smart Solar assistant prototype - Real time Dashboards,Predictive maintanance,,v
 # Sola1 - Smart Solar Assistant
  Solar Monitoring system Prototype
 
-## Prototype Demo
+## interface Prototype Demo
 [Open Prototype](https://react-nqccnlmn.stackblitz.io)
 ## Features
 - Real-time monitoring
